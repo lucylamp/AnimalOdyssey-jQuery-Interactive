@@ -20,7 +20,5 @@ Dependencies:
 jQuery 
 jQuery UI
 
-
-AnimalOdyssey.html
 Screenshots (2): the page as it is when opened, and an example of a scene created using the interactive element.
 
